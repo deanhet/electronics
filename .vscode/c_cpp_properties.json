@@ -3,6 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
+                "/Users/dean/Documents/Arduino/hardware/arduino/avr/**",
                 "${workspaceRoot}",
                 "/Users/dean/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
                 "/Users/dean/Library/Arduino15/packages/esp8266/tools/**",
