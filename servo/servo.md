@@ -1,0 +1,2 @@
+- `VU` seems to be the pin to use for power (from USB)
+- Using MG996R motor, rotations seem to be less trival than 0-360 degrees.
