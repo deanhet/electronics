@@ -1,0 +1,33 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceRoot}",
+                "/Users/dean/Library/Arduino15/packages/esp8266/hardware/esp8266/2.5.2/**",
+                "/Users/dean/Library/Arduino15/packages/esp8266/tools/**",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include"
+            ],
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": false,
+                "path": [
+                    "${workspaceRoot}",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                    "/Applications/Arduino.app/Contents/Java/hardware/tools/avr/avr/include"
+                ]
+            },
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
