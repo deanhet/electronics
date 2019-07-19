@@ -1,0 +1,2 @@
+- Pins actually need to be a bit loose in breadboard so they can touch contact sides.
+- Pin layout used was from here: https://www.instructables.com/id/MFRC522-RFID-Reader-Interfaced-With-NodeMCU/
